@@ -1,12 +1,8 @@
-# comp20008-2021sm2a1
-
-## Project: Assignment 1
-Student ID: 1255069
+## Project: Data Science
 Name: Junfei Zhang
-Class: COMP20008
 Date: September 9, 2021
 
-This project is about extracting and analysing information from the match results and articles news relating to soccor matches in the English Premier League. There are 9 programming tasks and 1 report in this assignment. Task1 - Task9 are included on github, and the final report is submitted through canvas. 
+This project is about extracting and analysing information from the match results and articles news relating to soccor matches in the English Premier League. There are 9 programming tasks and 1 report in this repository.
 
 
 ## Description
